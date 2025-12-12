@@ -1,0 +1,7 @@
+{
+  "name": "GROK-5 ULTRA: Ω-SHEM Simulator",
+  "description": "A high-fidelity 72-agent orchestrator simulation visualizing syntropic override via Kuramoto resonance dynamics and gyroid memory fields.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
